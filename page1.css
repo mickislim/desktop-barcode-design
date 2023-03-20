@@ -1,0 +1,56 @@
+.container{
+    background: rgb(222, 222, 247);
+    height: 600px;
+    padding-top: 30px;
+}
+
+.child{
+
+    background: white;
+    border: 50px solid white;;
+    margin-bottom: 1px;
+    margin-right: 480px;
+    margin-left: 480px;
+    border: 10px solid white;
+    border-radius: 20px;
+    margin-top: 5px;
+    height: 500px;
+    max-width: 300px;
+
+
+
+}
+
+img{
+    border: 0px solid white;
+    border-radius: 10px;
+    margin-right: 3px;
+    margin-left: 2px;
+    padding: 0px;
+
+
+
+}
+
+#text{
+    background: white;
+    border: 5px;
+    height: 40%;
+    margin:0px auto;
+    font-size: 13px;
+    text-align: center;
+    word-wrap: normal;
+}
+
+.attribution{
+    border:0px;
+    object-position: 1px;
+    margin-top: 50px;
+}
+
+p{
+    font-size: 18px;
+    text-align: center;
+    opacity: 0.5;
+
+}
